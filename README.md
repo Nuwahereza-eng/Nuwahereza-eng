@@ -1,14 +1,14 @@
 # Hi, I'm Peter Nuwahereza 👋
 
-A software Engineering student at Uganda Technology and Management University (UTAMU), Kampala, Uganda. I build software at the intersection of AI, blockchain, and civic technology.
+A software Engineering graduate from Universal Technology and Management University (UTAMU), Kampala, Uganda. I build software at the intersection of AI, blockchain, and civic technology.
 
 ## About Me
 
-- 🎓 Third-year Software Engineering student at UTAMU
+- 🎓 A Software Engineering graduate from UTAMU
 - 🚀 Vice President, UTAMU Innovation Club
 - 💻 Technical Lead, GDG UTAMU (Google Developer Groups)
 - 🛠️ IT Support Technician at Center for Transformative Parenting Uganda (CTP)
-- 🛠️ IT Technical Expert at Uganda Civil Society Against Malaria (UCAAM)
+- 🛠️ Assistant ICT Officer at UTAMU
 - 📚 Former Computer Applications Trainer & Assistant Lecturer, Billbrain Institute of Technology
 - 🌍 Based in Kampala, Uganda
 
